@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://USERNAME.github.io/lab2-ui-react",
+  "homepage": "https://Svetatata05.github.io/Web_intelligent_labs/lab2-ui-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
